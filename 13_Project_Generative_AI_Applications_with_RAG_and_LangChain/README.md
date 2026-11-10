@@ -29,17 +29,15 @@ These projects represent applied LLM system design and real-world automation wor
 
 - `langchain_doc_loaders.py`  
   Unified PDFs, Word, CSV, JSON, and web sources into standardized pipelines.  
-  Reduced preprocessing time by **65%**.
 
 - `text_splitting_rag.py`  
   Optimized chunking strategies for improved retrieval performance.  
-  Increased retrieval relevance by **35%** and reduced latency by **25%**.
+  Compares chunk sizes and overlap for retrieval.
 
 <img src="Images/splitter.png" width="220"/>
 
 - `vector_db_embeddings.py`  
   Configured **ChromaDB** and **FAISS** for scalable document retrieval.  
-  Improved information retrieval speed by **70%**.
 
 <img src="Images/vectordb.png" width="240"/>
 
@@ -54,8 +52,6 @@ These projects represent applied LLM system design and real-world automation wor
   - Self-Querying Retriever  
   - Parent Document Retriever  
 
-  Improved retrieval precision by **40%**.
-
 ---
 
 ### 🔹 LLM Interfaces & QA Systems
@@ -68,7 +64,6 @@ These projects represent applied LLM system design and real-world automation wor
 - `qa_bot_langchain.py`  
   End-to-end QA bot integrating loaders, splitters, embeddings, 
   vector DBs, and retrievers.  
-  Improved document query accuracy by **45%** and reduced manual search time by **60%**.
 
 <img src="Images/QA_bot.png" width="240"/>
 
@@ -85,10 +80,7 @@ These projects represent applied LLM system design and real-world automation wor
   - Vector database indexing
   - Intelligent retriever configuration
 
-  Results:
-  - Improved research efficiency by **65%**
-  - Reduced literature review time by 50%
-  - Final grade: **92/100**
+  Final grade: **92/100**
 
 ---
 

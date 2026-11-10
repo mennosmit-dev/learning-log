@@ -29,7 +29,7 @@ production-oriented LLM applications.
 
 - `rag_hr_policy_qa.py`  
   Built a DPR + GPT-2 RAG pipeline for HR policy question answering.  
-  Reduced query resolution time by **70%** by enabling instant document retrieval and generation.
+  Answers questions from retrieved policy documents.
 
 - `rag_song_filter.py`  
   Developed a RAG-based moderation system assessing song appropriateness for children.  
@@ -43,7 +43,6 @@ production-oriented LLM applications.
 
 - `prompt_engineering_langchain.py`  
   Implemented structured prompt templates and in-context learning strategies.  
-  Improved response accuracy by **40%** and reduced prompt development time by **50%**.
 
 - `langchain_framework_demo.py`  
   Built modular LLM applications using LangChain chains and agents.  
