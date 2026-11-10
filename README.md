@@ -3,8 +3,7 @@
 Repository containing applied projects and experiments developed while 
 completing the DataCamp Machine Learning Engineer Career Track.
 
-The focus of this repository is not coursework itself, but the practical
-implementation of production-oriented machine learning workflows, including:
+It covers the practical side of ML engineering:
 
 - experiment tracking
 - deployment pipelines
@@ -19,7 +18,7 @@ https://www.datacamp.com/tracks/machine-learning-engineer
 
 ## 🧠 Focus Areas
 
-This repository emphasizes **production-ready ML engineering**:
+Topics covered:
 
 - Model lifecycle management
 - Experiment tracking with MLflow
