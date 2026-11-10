@@ -19,8 +19,7 @@ covering the full lifecycle:
 
 data ingestion → feature engineering → training → deployment → monitoring → governance.
 
-The repository emphasizes **production-oriented ML architecture** rather
-than isolated experimentation.
+These are my study notes for the AWS Certified Machine Learning Engineer, Associate exam.
 
 ---
 
